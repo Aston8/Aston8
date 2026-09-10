@@ -52,7 +52,7 @@ I enjoy building full-stack web applications and solving problems using modern w
 
 A full-stack flight booking platform with flight search, seat selection, booking history, and cancellation.
 
-🔗 [View Repository](YOUR_FLIGHT_BOOKING_REPO_LINK)
+🔗 [View Repository](https://github.com/Aston8/flight-booking-app)
 
 ### 🎓 Campus Complaint Tracker
 
@@ -60,7 +60,7 @@ A full-stack flight booking platform with flight search, seat selection, booking
 
 An AI-powered complaint management platform for submitting, classifying, and tracking student complaints.
 
-🔗 [View Repository](YOUR_CAMPUS_COMPLAINT_REPO_LINK)
+🔗 [View Repository](https://github.com/Aston8/complaint-tracker)
 
 ### 🍔 Food Delivery Platform
 
@@ -68,7 +68,7 @@ An AI-powered complaint management platform for submitting, classifying, and tra
 
 A full-stack food delivery platform with restaurants, cart management, coupons, orders, payments, and an admin system.
 
-🔗 [View Repository](YOUR_FOOD_DELIVERY_REPO_LINK)
+🔗 [View Repository](https://github.com/Aston8/food-delivery-app)
 
 ## 📫 Connect With Me
 
